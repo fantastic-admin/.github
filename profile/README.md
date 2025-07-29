@@ -10,5 +10,11 @@
 
 - `main` 框架源码分支，不含示例代码，可直接用于实际开发
 - `example` 演示源码分支，同线上演示站，包含大量示例，可用于参考学习
-- `vue2` Vue2 版本框架源码分支，不含示例代码，可直接用于实际开发（停止维护）
-- `vue2-example` Vue2 版本演示源码分支，包含大量示例，可用于参考学习（停止维护）
+- ~~`vue2` Vue2 版本框架源码分支，不含示例代码，可直接用于实际开发~~（停止维护）
+- ~~`vue2-example` Vue2 版本演示源码分支，包含大量示例，可用于参考学习~~（停止维护）
+
+---
+
+另外本人承接 Fantastic-admin 相关的需求定制开发，价格合理，响应迅速。
+
+如果有这方面的需要，可以点 [这里](https://fantastic-admin.github.io/customize.html) ( [备用地址](https://fantastic-admin.pages.dev/customize.html) ) 详细了解。
